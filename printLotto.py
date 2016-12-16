@@ -14,5 +14,6 @@ for i in range(4):
         print("00%d" %temp)
     else:
         print temp
-        
-    
+
+print("\nLast two number lottorecieve is... ")
+print randint(0,99)
